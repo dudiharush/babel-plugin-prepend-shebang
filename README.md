@@ -8,5 +8,5 @@ npm i babel-plugin-prepend-shebang
 
 # Usgae
 
-add this to your package.json file
+add this to your package.json file\n
 "add-shebang": "babel --plugins prepend-shebang dist/some-file.js --out-dir ./dist"
